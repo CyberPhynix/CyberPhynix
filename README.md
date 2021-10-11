@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CyberPhynix
 - 👀 I’m interested in Web-Dev and algorithms
 - 🌱 I’m currently learning JS, HTML and CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🏫 9. grade
+- 📫 BlxckShadow#2178 on Discord
 
 <!---
 CyberPhynix/CyberPhynix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
