@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CyberPhynix
+- 👋 Hi, I’m Josh
 - 👀 I’m interested in Web-Dev and algorithms
 - 🌱 I’m currently learning JS, HTML and CSS
 - 🏫 9. grade
