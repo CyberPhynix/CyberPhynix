@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Josh
 - 👀 I’m interested in Web-Dev and algorithms
-- 🌱 I’m currently learning JS, HTML and CSS
+- 🌱 I’m currently learning Java (for MC plugins 😏)
 - 🏫 9. grade
 - 📫 BlxckShadow#2178 on Discord
 
