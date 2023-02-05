@@ -4,7 +4,6 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=CyberPhynix&theme=midnight-purple&layout=compact&hide_border=true&langs_count=10&exclude_repo=mcp1.8.9op">
 <img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=CyberPhynix&theme=midnight-purple&hide_border=true">
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
-<img width="50%" align="right" src="https://activity-graph.herokuapp.com/graph?username=CyberPhynix&bg_color=000000&color=5e2b99&line=5e2b99&point=ffffff&area=true&hide_border=true">
 <img src="https://visitor-badge.glitch.me/badge?page_id=CyberPhynix&color=000&text=Visitors&style=for-the-badge&logo=GitBook&logoColor=white&left_color=black&right_color=purple" alt="Visitor Badge">
 
 **Disclaimer: Anything you find in my repositories is for educational use only and I'm not responsible for any damage caused!**
