@@ -17,7 +17,7 @@
 
 ## OSs
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![](https://img.shields.io/badge/Arch-1793d1?style=for-the-badge&logo=arch&logoColor=white)
+![](https://img.shields.io/badge/Arch-1793d1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![](https://img.shields.io/badge/Kali-339933?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
