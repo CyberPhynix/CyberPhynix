@@ -14,7 +14,7 @@
 ![](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=black)
 ![](https://img.shields.io/badge/Python-0078D6?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=black)
-![](https://img.shields.io/badge/TeX-555555?style=for-the-badge&logo=tex&logoColor=black)
+![](https://img.shields.io/badge/TeX-555555?style=for-the-badge&logo=latex&logoColor=black)
 
 ## OSs
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
