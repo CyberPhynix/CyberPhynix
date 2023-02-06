@@ -19,7 +19,7 @@
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Arch-1793d1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![](https://img.shields.io/badge/Kali-339933?style=for-the-badge&logo=kalilinux&logoColor=white)
-![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![](https://img.shields.io/badge/Ubuntu%20|%20WSL-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## IDEs
 ![](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
